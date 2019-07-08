@@ -30,8 +30,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IndustriesBlackStudios/Sitio-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+El sitio de las páginas usará el diseño y los estilos del tema Jekyll que ha seleccionado en su [configuración del repositorio] ( https://github.com/IndustriesBlackStudios/Sitio-web/settings ). El nombre de este tema se guarda en el archivo de configuración Jekyll `_config.yml` .
+Al aire libre
+### Soporte o contacto
+Al aire libre
+¿Tienes problemas con las páginas? Consulte nuestra [documentación] ( https://help.github.com/categories/github-pages-basics/ ) o [contacte con soporte] ( https://github.com/contact ) y le ayudaremos a ordenarlo. afuera
+Al aire libre
